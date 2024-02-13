@@ -1,0 +1,20 @@
+repo_name: fairushyn/You-Dont-Know-JS
+report_id: 3b52f9679dadc38df571939f26c1a40a
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T17:58:24+00:00'
+requested_by: getify
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fairushyn/You-Dont-Know-JS
+  detection_source: Repo Metadata
